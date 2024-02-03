@@ -2,7 +2,9 @@
 
 ## Q.1
 
+```js
 use FacultySystemDB
+```
 
 ## Q.2 && Q.3
 
